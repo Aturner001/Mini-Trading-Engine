@@ -9,6 +9,8 @@ written in pure C++20
 - Timestamp resolution: nanoseconds via 'steady_clock'
 - Engine round trip sub **~36 μs** (In GitHub Codespaces )
 
+- <img width="538" height="133" alt="Screenshot 2025-11-21 003636" src="https://github.com/user-attachments/assets/3cfb62f4-8599-4579-9176-9ef9a199842d" />
+
 ### How to run
 ```bash
 g++ -march=native -std=c++20 MiniTradingEngin.cpp -o
